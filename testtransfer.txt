@@ -1,1 +1,1 @@
-transfer +60126902846
+say en "Why hello there! Nice to hear you"
